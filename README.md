@@ -1,4 +1,4 @@
-# Dark Mode Website Redesign
+# EpiGraph: Disease Spread Simulator
 
 *Automatically synced with your Vercel deployments*
 
