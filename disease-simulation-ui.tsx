@@ -501,7 +501,7 @@ export default function DiseaseSimulationUI() {
               />
               <h3 className="text-lg font-medium text-[#2dd4bf]">Ali Haider</h3>
               <p className="text-sm text-[#a8b7b7] mb-2">Software Engineer, BESE 14 B</p>
-              <p className="text-xs text-[#a8b7b7]">Specializes in network algorithms and data visualization.</p>
+              <p className="text-xs text-[#a8b7b7]">Expert in Web Development, Data Structure and Algorithms.</p>
             </div>
 
             <div className="bg-[#1a2224] p-5 rounded-xl border border-[#2a3638] text-center">
